@@ -1,0 +1,10 @@
+**/Build
+**/Binaries
+**/DerivedDataCache
+**/Intermediate/
+**/Saved
+
+**/Content/StarterContent/
+**/.vscode/
+
+section_01/
